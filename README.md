@@ -35,7 +35,7 @@ It also includes a search functionality to find the weather conditions for any c
 
 3. Use the search bar to enter the name of any city and view its weather conditions.
    ![Screenshot 2024-06-26 130304](https://github.com/Diya-G-15/WeatherApp/assets/137169112/56804a5d-73ec-413c-8a26-bd4ec39fb533)
-   ![Screenshot 2024-06-26 130239](https://github.com/Diya-G-15/WeatherApp/assets/137169112/7540823a-90af-4884-ac93-0369d5703b14)
+                                                   ![Screenshot 2024-06-26 130239](https://github.com/Diya-G-15/WeatherApp/assets/137169112/7540823a-90af-4884-ac93-0369d5703b14)
 
 
 ## Built With
